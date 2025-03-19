@@ -1,5 +1,12 @@
 {
   "dependencies": {
+    "com.hecomi.umicrophonewebgl": {
+      "version": "https://gitee.com/awnuxcvbn/uMicrophoneWebGL.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "1d7eba00d497ece18aa5d3cadacaf891ad80ae1a"
+    },
     "com.unity.ext.nunit": {
       "version": "1.0.6",
       "depth": 2,
